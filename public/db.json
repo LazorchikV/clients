@@ -1,0 +1,12 @@
+{
+  "clients": [
+    {
+      "id": 0,
+      "date":  "27/09/2020",
+     "firstName": "Ivan", 
+     "lastName": "Petrenko", 
+     "gender": "male",  
+     "state": "mobileapp"
+    }
+  ]
+}
