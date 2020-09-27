@@ -1,0 +1,43 @@
+.reg {  
+        margin: 0 auto;
+        width: 0 auto;     
+        background-color: indigo;    
+        min-height: 2.75rem;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 01rem;      
+}
+
+.links {
+        font-family: 'Oswald', sans-serif;
+        color: #ebebeb;
+        display: flex;
+        min-height: 100%;
+        padding: .5rem;
+        align-items: center;
+        justify-content: center;
+}
+.fon {
+        margin-left: 10px;
+       border-radius: 80px;
+        width: 600px;
+        background-color:  rgb(50, 126, 27);   
+}
+.menu-toggle {
+        appearance: none;
+        display: flex;
+        padding: 010px;
+        font-size: 60px;
+        align-items: center;
+        justify-content: center;
+        border-radius: 80px;
+        border: 1px solid#ebebeb;
+        min-height: 44px;
+        text-decoration: none;
+        color: #777;
+       }
+       [aria-label="site navigation"] {
+        margin-right: auto;
+        font-size: 24px;
+       }

@@ -1,0 +1,8 @@
+.CenterMe {
+  color: #416da0;
+  font-family: 'Oswald', sans-serif;
+  height: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ }
